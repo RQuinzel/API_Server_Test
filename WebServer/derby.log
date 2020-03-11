@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Mar 10 21:13:38 PDT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0170-c7cc-4875-00000cfe4ce8 
+on database directory /home/rosie/git/API_Server_Test/WebServer/new.db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@58644d46 
+Loaded from file:/home/rosie/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Ubuntu
+java.runtime.version=11.0.4+11-post-Ubuntu-1ubuntu218.04.3
+user.dir=/home/rosie/git/API_Server_Test/WebServer
+os.name=Linux
+os.arch=amd64
+os.version=5.0.0-32-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
